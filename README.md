@@ -1,2 +1,1 @@
-# Fairy
-Fairy project
+# SupplyMission
